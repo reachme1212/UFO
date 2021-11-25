@@ -13,6 +13,6 @@ The data is store in data.js file , I have written the html code for the page di
 
 **Summary:**
 
-The one drawback of this webpage (2 pt) Dana the data journalist wanted to write about the UFO in her home town Mcminnvile,Oregon , however there are no UFO data for this particular location.
+The one drawback of this webpage, Dana the data journalist wanted to write about the UFO in her home town Mcminnvile-Oregon , however there are no UFO data for this particular location.
 
-The web page can be improved by adding count of UFO data when we filter if the data gets large ,people cant manually count the filtered results. I would like to add more data to the data.js file as 'Dana' wanted to write about the UFO sightings in her hometown and we do not have enough data to start writing about Mcminnvile,Oregon.
+The web page can be improved by adding count of UFO data when we filter if the data gets large ,people cant manually count the filtered results. I would like to add more data to the data.js file as 'Dana' wanted to write about the UFO sightings in her hometown and we do not have enough data to start writing article about Mcminnvile,Oregon.
